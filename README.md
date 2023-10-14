@@ -7,7 +7,7 @@
 ---
 ### :man_technologist: About Me :
 #### :hammer_and_wrench: 5 лет работал инженером-программистом в сфере автоматизированных систем управления
-#### :computer: Отучился в GeekBrains по направлению Android разработка
+#### :computer: а андроид разработке с 2020 года
 #### :writing_hand: C++, Java, Kotlin
 
 
